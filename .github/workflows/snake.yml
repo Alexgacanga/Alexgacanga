@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -14,8 +13,8 @@ jobs:
       
       - uses: Platane/snk@v2
         with:
-          # Replace with your actual GitHub username
-          github_user_name: your-github-username
+          # This must match your GitHub username
+          github_user_name: alexgacanga01
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
