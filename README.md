@@ -101,7 +101,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -119,6 +118,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
-###
