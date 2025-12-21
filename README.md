@@ -1,13 +1,3 @@
-###
-
-<div align="center">
-  <a href="#">
-    <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdjZHN6bW9vc2VhdmUyYjJ6aG5vbnR1OWp5aGxmZncxemRmdnhkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/alex-mwangi-gacanga/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
