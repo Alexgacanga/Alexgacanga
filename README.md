@@ -96,8 +96,3 @@
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
 </div>
-
-<div align="center">
-<h1>📊 GitHub Stats:</h1>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Alexgacanga&theme=dark&hide_border=false" /><br/>
-</div>
