@@ -75,14 +75,8 @@
   <img width="12" />
   <a href="#"><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  /></a>
   <img width="12" />
-  <img width="12" />
-  <img width="12" />
-  <img width="12" />
-  <img width="12" />
   <a href="#"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  /></a>
   <img width="12" />
-  <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a>
-  <img width="12" />
   <img width="12" />
 </div>
