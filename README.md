@@ -62,15 +62,12 @@
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></a>
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></a>
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></a>
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
   <img width="12" />
@@ -78,21 +75,14 @@
   <img width="12" />
   <a href="#"><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /></a>
   <img width="12" />
   <a href="#"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  /></a>
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
   <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
 </div>
