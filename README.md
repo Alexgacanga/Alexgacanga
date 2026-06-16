@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm Gacanga Alex Mwangi from Kenya<br><br>- 🔭 I’m currently a student<br>- 📚 I'm currently learning a degree in Software Engineering<br>- 📚 On the side, I am still learning and practising Full Stack Development and Data Engineering<br>- ⚡ In my free time, I am a graphic designer</p>
+<p align="left">I'm Gacanga Alex Mwangi from Kenya<br><br>- 🔭 I’m currently a student pursuing a bachelor's degree in Software Engineering<br>- 📚 On the side, I am still learning and practising Full Stack Development and Data Engineering<br>- ⚡ In my free time, I am a graphic designer</p>
 
 ###
 
