@@ -1,65 +1,57 @@
-<div>
-  <a href="#">
-    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-  </a>
+<div align="center">
+
+#  Hi, I'm Alex Gacanga
+
+###  Software Engineer
+📍 Nairobi County, Kenya
+
+[![Email](https://img.shields.io/badge/Email-alexgacanga01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexgacanga01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexgacanga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexgacanga)
+[![Portfolio](https://img.shields.io/badge/Web_Portfolio-alexgacanga.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alexgacanga.vercel.app/)
+
 </div>
+
+---
+
+##  About Me
+
+> I am a results-driven final year BSc Software Engineering student. I specialize in designing, building, and maintaining scalable systems across the full development lifecycle.
+
+---
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+**Spoken Languages**
+![English](https://img.shields.io/badge/English-Full_Professional-blue?style=flat-square)
+![Swahili](https://img.shields.io/badge/Swahili-Native%2FBilingual-green?style=flat-square)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alex-mwangi-gacanga/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Alex_gacanga" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
- <a href="mailto:alexgacanga01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-</div>
 
-###
+ *I'm open to collaborations and design projects. Let's build something great together!*
 
-<br clear="both">
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<div align="center">
-  <a href="#">
-    <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFxdzdidGoydzdkMDl4d2x5aTJ0M3dhZjZzc2d4b2lvYjV5cTEyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUySTNgybuf4GBCjdK/giphy.gif"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Gacanga Alex Mwangi from Kenya<br><br>- 🔭 I’m currently a student pursuing a bachelor's degree in Software Engineering<br>- 📚 On the side, I am still learning and practising Full Stack Development and Data Engineering<br>- ⚡ In my free time, I am a graphic designer</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /></a>
-  <img width="12" />
-  <a href="#"><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  /></a>
-  <img width="12" />
-  <a href="#"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a>
-  <img width="12" />
 </div>
